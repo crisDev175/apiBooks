@@ -1,0 +1,1 @@
+{"version":3,"file":"css/bundle.css","mappings":";;;AAAA;IACI,WAAW;AACf,C","sources":["webpack://fullstackjavascript-faztcode/./frontend/styles/app.css"],"sourcesContent":["body {\r\n    color: #000;\r\n}"],"names":[],"sourceRoot":""}
